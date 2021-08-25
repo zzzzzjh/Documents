@@ -1,0 +1,27 @@
+# OFFBOARD降落注意
+
+对于开源代码prometheus那种land策略，可能是降落高度之后直接切换为manual并强制上锁，或者降落高度之后进入飞控中land模式。
+
+![image-20210825153639277](C:\Users\zzzzzjh\AppData\Roaming\Typora\typora-user-images\image-20210825153639277.png)
+
+![image-20210825153646572](C:\Users\zzzzzjh\AppData\Roaming\Typora\typora-user-images\image-20210825153646572.png)
+
+
+
+注意自己程序中的降落逻辑。不要采取前面的策略，比较危险，可能会有一飞冲天的情况，而且本身也不符合飞控正常降落的流程。
+
+应当使用AUTO.LAND模式来自动降落。亦或者在OFFBOARD模式下控制飞机到足够低的位置直接使用遥控关油门。
+
+
+
+另外在切换模式的时候应当注意的是丢失OFFBOARD之后的逻辑，相应参数在地面站中可以设置：
+
+![image-20210825154035152](C:\Users\zzzzzjh\AppData\Roaming\Typora\typora-user-images\image-20210825154035152.png)
+
+
+
+最后在实验时，记得给飞机绑根绳子，防止跑飞了。
+
+附上炸鸡图（其实主要是电机座太脆了，看着比较惨）
+
+![image-20210825154158735](C:\Users\zzzzzjh\AppData\Roaming\Typora\typora-user-images\image-20210825154158735.png)
