@@ -2,7 +2,7 @@
 
 对于开源代码prometheus那种land策略，可能是降落高度之后直接切换为manual并强制上锁，或者降落高度之后进入飞控中land模式。
 
-![image-20210825153639277](C:\Users\zzzzzjh\AppData\Roaming\Typora\typora-user-images\image-20210825153639277.png)
+![image-20210825153639277](images\image-20210825153639277.png)
 
 ![image-20210825153646572](C:\Users\zzzzzjh\AppData\Roaming\Typora\typora-user-images\image-20210825153646572.png)
 
@@ -16,7 +16,7 @@
 
 另外在切换模式的时候应当注意的是丢失OFFBOARD之后的逻辑，相应参数在地面站中可以设置：
 
-![image-20210825154035152](C:\Users\zzzzzjh\AppData\Roaming\Typora\typora-user-images\image-20210825154035152.png)
+![image-20210825154035152](images\image-20210825154035152.png)
 
 
 
@@ -24,4 +24,4 @@
 
 附上炸鸡图（其实主要是电机座太脆了，看着比较惨）
 
-![image-20210825154158735](C:\Users\zzzzzjh\AppData\Roaming\Typora\typora-user-images\image-20210825154158735.png)
+![image-20210825154158735](images\image-20210825154158735.png)
