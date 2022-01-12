@@ -52,7 +52,7 @@ It includes several realizations of simulation/experience of the drone swarm.
 
   避撞与队形变换
 
-  <img src=".\vedio\222.gif" alt="222" style="zoom: 40%;" /><img src=".\vedio\333.gif" alt="333" style="zoom: 50%;" />
+  <img src=".\vedio\222.gif" alt="222" width="300;" /><img src=".\vedio\333.gif" alt="333" width="300;" />
 
   
 
