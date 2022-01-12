@@ -82,4 +82,4 @@ It includes several realizations of simulation/experience of the drone swarm.
 
 - ##### mavlink_socket 包（[repo](https://github.com/zzzzzjh/mavlink_socket)）
 
-  与定制的Mccontroller飞控板通信的mavlink消息包
+  与定制的Mcontroller飞控板通信的mavlink消息包
