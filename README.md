@@ -58,7 +58,7 @@ It includes several realizations of simulation/experience of the drone swarm.
 
   牵制控制
 
-  ![111](.\vedio\111.gif)
+  ![111](https://github.com/zzzzzjh/Documents/blob/master/vedio/111.gif)
 
   
 
