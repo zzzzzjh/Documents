@@ -36,7 +36,7 @@ It includes several realizations of simulation/experience of the drone swarm.
 
 ## 3. Design
 
-- ##### drone_msg 包（(repo)[https://github.com/zzzzzjh/drone_msg]）
+- ##### drone_msg 包（[repo](https://github.com/zzzzzjh/drone_msg)）
 
   包含了无人机集群所需的ROS消息文件
 
