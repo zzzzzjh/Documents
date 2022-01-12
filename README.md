@@ -40,13 +40,13 @@ It includes several realizations of simulation/experience of the drone swarm.
 
   包含了无人机集群所需的ROS消息文件
 
-- ##### pf_swarm 包
+- ##### pf_swarm 包（[repo](https://github.com/zzzzzjh/pf_swarm)）
 
   对文章模型的复现和修改:
 
   [Vásárhelyi G, Virágh C, Somorjai G, et al. Optimized flocking of autonomous drones in confined environments[J]. Science Robotics, 2018, 3(20).](https://www.science.org/doi/10.1126/scirobotics.aat3536)
 
-- ##### drone_swarm 包
+- ##### drone_swarm 包（[repo](https://github.com/zzzzzjh/drone_swarm)）
 
   基于ROS和PX4开发，效果如下
 
@@ -66,20 +66,20 @@ It includes several realizations of simulation/experience of the drone swarm.
 
   <img src=".\images\506b7ce191ec159366f11ca56db7376.png" width="300;" /><img src=".\images\d5b22ed8e8334c72ebd951717aa0a90.png" alt="d5b22ed8e8334c72ebd951717aa0a90" width="300;" />
 
-- ##### fake_drone_swarm 包
+- ##### fake_drone_swarm 包（[repo](https://github.com/zzzzzjh/fake_drone_swarm)）
 
   简化了飞机的动力学模型，实现大规模集群的仿真：
 
   ![444](https://github.com/zzzzzjh/Documents/blob/master/vedio/444.gif)
 
-- #####  nlink_parser包   
+- #####  nlink_parser包（[repo](https://github.com/nooploop-dev/nlink_parser)）   
 
   对nooploop公司UWB消息解析包
 
-- ##### vrpn_client_ros 包
+- ##### vrpn_client_ros 包（[repo](https://github.com/zzzzzjh/vrpn_client_ros)）
 
   对Optitrack光学动捕定位消息解析包
 
-- ##### mavlink_socket 包
+- ##### mavlink_socket 包（[repo](https://github.com/zzzzzjh/mavlink_socket)）
 
   与定制的Mccontroller飞控板通信的mavlink消息包
