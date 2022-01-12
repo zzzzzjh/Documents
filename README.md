@@ -70,7 +70,7 @@ It includes several realizations of simulation/experience of the drone swarm.
 
   简化了飞机的动力学模型，实现大规模集群的仿真：
 
-  ![444](.\vedio\444.gif)
+  ![444](https://github.com/zzzzzjh/Documents/blob/master/vedio/444.gif)
 
 - #####  nlink_parser包   
 
