@@ -52,7 +52,7 @@ It includes several realizations of simulation/experience of the drone swarm.
 
   避撞与队形变换
 
-  <img src=".\vedio\222.gif" alt="222" width="400;" /><img src=".\vedio\333.gif" alt="333" width="400;" />
+  <img src=".\vedio\222.gif" alt="222" width="300;" /><img src=".\vedio\333.gif" alt="333" width="300;" />
 
   
 
@@ -64,7 +64,7 @@ It includes several realizations of simulation/experience of the drone swarm.
 
   实机飞行：
 
-  <img src=".\images\506b7ce191ec159366f11ca56db7376.png" width="400;" /><img src=".\images\d5b22ed8e8334c72ebd951717aa0a90.png" alt="d5b22ed8e8334c72ebd951717aa0a90" width="400;" />
+  <img src=".\images\506b7ce191ec159366f11ca56db7376.png" width="300;" /><img src=".\images\d5b22ed8e8334c72ebd951717aa0a90.png" alt="d5b22ed8e8334c72ebd951717aa0a90" width="300;" />
 
 - ##### fake_drone_swarm 包
 
