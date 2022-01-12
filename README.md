@@ -21,7 +21,6 @@ It includes several realizations of simulation/experience of the drone swarm.
     //optional packages
     git clone https://github.com/zzzzzjh/drone_swarm.git
     git clone https://github.com/zzzzzjh/fake_drone_swarm.git
-    git clone https://github.com/zzzzzjh/drone_msg.git
     
     //external localizetion packages
     git clone https://github.com/ros-drivers/vrpn_client_ros.git
